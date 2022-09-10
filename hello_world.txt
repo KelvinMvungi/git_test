@@ -1,0 +1,3 @@
+An example of how to output Hello World in Javascript
+
+console.log('Hello, World!');
